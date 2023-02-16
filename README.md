@@ -1,2 +1,2 @@
-# java--training
-# java--training
+# chess-system-java
+
